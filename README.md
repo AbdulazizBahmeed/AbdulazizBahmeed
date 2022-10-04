@@ -5,7 +5,7 @@
 - 👀 I’m interested in every aspect of computers and it's world 
 - 🌱 I’m currently learning node.js and web technology and some of game development. 
 - 💞️ I’m looking to collaborate on game making. 
-- 📫 reach me using my twitter account @AbdulazizBa7med or my Email AbdulazizBahmeed@outlook.sa
+- 📫 reach me using my twitter account @A_bahmeed or my Email AbdulazizBahmeed@outlook.sa
 
 
 # Tech Stack
